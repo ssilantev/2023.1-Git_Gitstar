@@ -1,2 +1,3 @@
 first text
-local edit
+confirm "local edit" on GitHub
+add remote edit
