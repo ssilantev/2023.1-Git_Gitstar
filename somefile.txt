@@ -1,3 +1,3 @@
 first text
 confirm "local edit" on GitHub
-add remote edit
+confirm "add remote edit" locally
